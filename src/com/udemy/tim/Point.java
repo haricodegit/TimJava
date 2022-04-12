@@ -30,7 +30,7 @@ public class Point {
 	}
 	
 	public int distance() {
-		return Math.sqrt(())
+		return Math.sqrt(());
 	}
 	
 	public int distance(int x, int y) {
