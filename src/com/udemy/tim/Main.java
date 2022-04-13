@@ -109,10 +109,13 @@ public class Main {
 		
 		
 		
-		Dogg rex = new Dogg("rex");
-		Dogg fluffy = new Dogg("fluffy");
-		rex.printName();
-		fluffy.printName();
+//		Dogg rex = new Dogg("rex");
+//		Dogg fluffy = new Dogg("fluffy");
+//		rex.printName();
+//		fluffy.printName();
+
+		gITClass Obj = new gITClass();
+		Obj.className();
 		
 		
 		

@@ -1,3 +1,4 @@
+/*
 package com.udemy.tim;
 
 public class Point {
@@ -40,4 +41,4 @@ public class Point {
 	public int distance(double another, int point) {
 		
 	}
-}
+}*/

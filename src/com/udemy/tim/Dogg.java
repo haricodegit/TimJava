@@ -5,8 +5,8 @@ public class Dogg {
 	private String name;
 	
 	public Dogg(String name) {
-//		Dogg.name = name;	
-//		this.name = name;
+		//Dogg.name = name;
+		this.name = name;
 	}
 	
 	public void printName() {
